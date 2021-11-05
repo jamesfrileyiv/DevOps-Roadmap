@@ -169,6 +169,7 @@ Regarding emails, I've troubleshot issues regarding most of these in the context
   * LXC
 
 Already using Docker, mainly Docker Compose for testing some applications. Will upload to github and link here later
+**Update:** https://github.com/jamesfrileyiv/DockerSandbox
 
 <h2>3. Configuration Management</h2>
 
@@ -225,6 +226,7 @@ For my current job, I do a lot with infrastructure monitoring, but the platform 
   * Papertrail
 
 I have the start to an Elastic Stack already set up in my docker sandbox, using docker compose. I will upload this to github later when I upload my docker sandbox work.
+**Update:** https://github.com/jamesfrileyiv/DockerSandbox/tree/master/Docker-Compose/ELK
 
 <h1>Cloud Providers</h1>
 
