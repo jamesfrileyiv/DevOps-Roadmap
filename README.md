@@ -250,3 +250,8 @@ Although these are public clouds, I also have experience with private clouds lik
   * Management and Monitoring
 
 Here is a great resource for learning design patterns: https://docs.microsoft.com/en-us/azure/architecture/patterns/
+
+<h1>Other Stuff that's Good to Know</h1>
+<h2>1. Git</h2>
+
+  * If you commit a file or folder that you'd like to remove from the repository, add it to your .gitignore file. Additionally, cd into your local copy of the repo and run the command: "git rm --cached $file" or "git rm -r --cached $folder". Then commit your changes.
