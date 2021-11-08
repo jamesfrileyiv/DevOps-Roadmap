@@ -185,6 +185,8 @@ Already using Docker, mainly Docker Compose for testing some applications. Will 
   * Docker Swarm
   * Nomad
 
+Currently learning Kubernetes with MiniKube. Created a sandbox repo which can be found here: https://github.com/jamesfrileyiv/MiniKube-Sandbox
+
 <h2>5. Infrastructure Provisioning</h2>
 
   * Terraform
